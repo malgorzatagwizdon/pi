@@ -1,3 +1,6 @@
 #f/usr/bin/python3
 
-print ("heyyyah")
+def main(msg):
+    print(msg)
+
+main ("heyyyah there")
